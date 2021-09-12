@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+html, body {
+    width: 100%;
+    outline: 1px solid;
+    
+}
+
+.main-card {
+    outline: 1px solid;
+    width: 20rem;
+    height: 2px;
+}
